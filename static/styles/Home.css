@@ -14,7 +14,7 @@
 }
 
  .u-section-1-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/font-endparallex.svg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/font-endparallex.svg");
   background-position: 50% 15.82%;
 }
 
@@ -94,7 +94,7 @@
 }
 
  .u-section-1-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/font-endparallex11.svg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/font-endparallex11.svg");
   background-position: 50% 12.66%;
 }
 
@@ -147,7 +147,7 @@
 }
 
  .u-section-1-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/font-endparallex2.svg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/font-endparallex2.svg");
   background-position: 50% 18.99%;
 }
 
@@ -1169,7 +1169,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 350px;
-  background-image: url("images/font-endparallex4.svg");
+  background-image: url("../images/font-endparallex4.svg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
